@@ -1,4 +1,4 @@
-About Me
+## About Me
 
 I am a creative and analytical **Computer Science student** deeply involved in developing innovative projects. My work spans from mobile and web applications to interactive educational tools and network research studies. I have a strong focus on practicality and user experience, evident in my interest in mobile apps like **Coffee Shop App**.
 
